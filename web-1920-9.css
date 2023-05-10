@@ -1,0 +1,170 @@
+.component-1-7-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-seagreen-200);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.who-am-i3 {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: calc(50% - 61px);
+  -webkit-text-stroke: 1px #707070;
+}
+.component-1-7 {
+  position: absolute;
+  top: 43.55px;
+  left: 444px;
+  width: 243px;
+  height: 58px;
+}
+.path-15-icon {
+  position: absolute;
+  bottom: 157px;
+  left: 1111px;
+  width: 413px;
+  height: 626px;
+}
+.web-1920-9-child {
+  position: absolute;
+  top: 34.55px;
+  left: 37.18px;
+  width: 56.55px;
+  height: 55.54px;
+  cursor: pointer;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  bottom: 122px;
+  left: 396px;
+  display: inline-block;
+  width: 662px;
+}
+.portratt-mindre-03-icon {
+  position: absolute;
+  top: 286px;
+  left: 1097px;
+  width: 415px;
+  height: 623px;
+  object-fit: cover;
+}
+.who-am-i4 {
+  position: absolute;
+  top: 111px;
+  left: 606px;
+  font-size: var(--font-size-99xl);
+}
+.component-1-6-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-cornsilk);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.who-am-i5 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 60.5px);
+}
+.component-1-6 {
+  position: absolute;
+  top: 34.55px;
+  left: 434px;
+  width: 243px;
+  height: 58px;
+}
+.projects2 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 55.5px);
+  text-transform: uppercase;
+}
+.component-3-6 {
+  position: absolute;
+  top: 34.55px;
+  left: 973px;
+  width: 243px;
+  height: 58px;
+  cursor: pointer;
+}
+.contact3 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 50.5px);
+  text-transform: uppercase;
+}
+.component-4-6 {
+  position: absolute;
+  top: 34.55px;
+  left: 1242px;
+  width: 243px;
+  height: 58px;
+  cursor: pointer;
+}
+.shop2 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 30.5px);
+  text-transform: uppercase;
+}
+.component-2-6 {
+  position: absolute;
+  top: 34.55px;
+  left: 703px;
+  width: 243px;
+  height: 58px;
+  cursor: pointer;
+}
+.component-15-2-child,
+.component-15-2-item {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 29px;
+}
+.component-15-2-child {
+  top: 0;
+  border-radius: var(--br-5xs) var(--br-6xs) 0 0;
+  background-color: var(--color-dimgray);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.component-15-2-item {
+  bottom: 0;
+  border-radius: 0 0 var(--br-4xs) var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+}
+.component-15-2 {
+  position: absolute;
+  top: 35px;
+  right: 38px;
+  width: 57px;
+  height: 58px;
+  cursor: pointer;
+}
+.web-1920-9 {
+  position: relative;
+  background-color: var(--color-cornsilk);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-seagreen-200);
+  font-family: var(--font-montserrat);
+}

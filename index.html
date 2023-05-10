@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="httpss://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="web-1920-10">
+      <div class="component-1-2">
+        <div class="component-1-2-child" id="rectangle"></div>
+        <b class="who-am-i">WHO AM I?</b>
+      </div>
+      <div class="component-3-2" id="component32">
+        <div class="component-3-2-child"></div>
+        <b class="projects">Projects</b>
+      </div>
+      <div class="component-4-2" id="component42">
+        <div class="component-3-2-child"></div>
+        <b class="contact">CONTACT</b>
+      </div>
+      <div class="component-2-2" id="component22">
+        <div class="component-3-2-child"></div>
+        <b class="shop">Shop</b>
+      </div>
+      <img class="web-1920-10-child" alt="" src="./public/group-4.svg" />
+
+      <img class="web-1920-10-item" alt="" src="./public/group-2.svg" />
+
+      <div class="component-15-1" id="component151">
+        <div class="component-15-1-child"></div>
+        <div class="component-15-1-item"></div>
+      </div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./web-1920-9.html";
+        });
+      }
+      
+      var component32 = document.getElementById("component32");
+      if (component32) {
+        component32.addEventListener("click", function (e) {
+          window.location.href = "./web-1920-7.html";
+        });
+      }
+      
+      var component42 = document.getElementById("component42");
+      if (component42) {
+        component42.addEventListener("click", function (e) {
+          window.location.href = "./web-1920-6.html";
+        });
+      }
+      
+      var component22 = document.getElementById("component22");
+      if (component22) {
+        component22.addEventListener("click", function (e) {
+          window.location.href = "./web-1920-8.html";
+        });
+      }
+      
+      var component151 = document.getElementById("component151");
+      if (component151) {
+        component151.addEventListener("click", function (e) {
+          // Please sync "Web 1920 – 14" to the project
+        });
+      }
+      </script>
+  </body>
+</html>

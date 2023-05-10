@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-99xl: 118px;
+
+  /* Colors */
+  --color-cornsilk: #faf6db;
+  --color-seagreen-100: #419270;
+  --color-seagreen-200: #00946e;
+  --color-dimgray: #707070;
+
+  /* border radiuses */
+  --br-4xs: 9px;
+  --br-5xs: 8px;
+  --br-6xs: 7px;
+  --br-17xl: 36px;
+}

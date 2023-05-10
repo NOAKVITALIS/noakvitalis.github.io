@@ -1,0 +1,198 @@
+.component-1-10-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-seagreen-200);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.who-am-i1 {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: calc(50% - 61px);
+  -webkit-text-stroke: 1px #707070;
+}
+.component-1-10 {
+  position: absolute;
+  top: 43.55px;
+  left: 1252px;
+  width: 243px;
+  height: 58px;
+}
+.web-1920-6-child {
+  position: absolute;
+  top: 396px;
+  left: 740px;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-seagreen-200);
+  width: 451px;
+  height: 236px;
+}
+.contact1 {
+  position: absolute;
+  top: 116px;
+  left: 662px;
+  font-size: var(--font-size-99xl);
+  text-align: center;
+}
+.web-1920-6-item {
+  position: absolute;
+  top: 385px;
+  left: 729px;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-cornsilk);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+  width: 451px;
+  height: 236px;
+}
+.blank-line {
+  margin: 0;
+}
+.email-noakvitalisgmailcom {
+  position: absolute;
+  top: 416px;
+  left: 760px;
+}
+.component-13-2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-cornsilk);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.noakvitalis {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 66.5px);
+}
+.component-13-2 {
+  position: absolute;
+  top: 541px;
+  left: 900px;
+  width: 243px;
+  height: 58px;
+}
+.component-1-3-child,
+.web-1920-6-inner {
+  position: absolute;
+  top: 34.55px;
+  left: 37.18px;
+  width: 56.55px;
+  height: 55.54px;
+  cursor: pointer;
+}
+.component-1-3-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-cornsilk);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.who-am-i2 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 60.5px);
+}
+.component-1-3 {
+  position: absolute;
+  top: 34.55px;
+  left: 434px;
+  width: 243px;
+  height: 58px;
+}
+.projects1 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 55.5px);
+  text-transform: uppercase;
+}
+.component-3-3 {
+  position: absolute;
+  top: 34.55px;
+  left: 973px;
+  width: 243px;
+  height: 58px;
+  cursor: pointer;
+}
+.contact2 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 50.5px);
+  text-transform: uppercase;
+}
+.component-4-3 {
+  position: absolute;
+  top: 34.55px;
+  left: 1242px;
+  width: 243px;
+  height: 58px;
+}
+.shop1 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 30.5px);
+  text-transform: uppercase;
+}
+.component-2-3 {
+  position: absolute;
+  top: 34.55px;
+  left: 703px;
+  width: 243px;
+  height: 58px;
+  cursor: pointer;
+}
+.component-15-5-child,
+.component-15-5-item {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 29px;
+}
+.component-15-5-child {
+  top: 0;
+  border-radius: var(--br-5xs) var(--br-6xs) 0 0;
+  background-color: var(--color-dimgray);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.component-15-5-item {
+  bottom: 0;
+  border-radius: 0 0 var(--br-4xs) var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+}
+.component-15-5 {
+  position: absolute;
+  top: 35px;
+  right: 38px;
+  width: 57px;
+  height: 58px;
+  cursor: pointer;
+}
+.web-1920-6 {
+  position: relative;
+  background-color: var(--color-cornsilk);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-seagreen-200);
+  font-family: var(--font-montserrat);
+}

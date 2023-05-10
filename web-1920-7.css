@@ -1,0 +1,329 @@
+.component-1-9-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-seagreen-200);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.who-am-i8 {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: calc(50% - 61px);
+  -webkit-text-stroke: 1px #707070;
+}
+.component-1-9 {
+  position: absolute;
+  top: 43.55px;
+  left: 981px;
+  width: 243px;
+  height: 58px;
+}
+.all2 {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  left: 101.5px;
+  -webkit-text-stroke: 1px #707070;
+}
+.component-9-4 {
+  position: absolute;
+  top: 291px;
+  left: 441px;
+  width: 243px;
+  height: 58px;
+}
+.projects4 {
+  position: absolute;
+  top: 116px;
+  left: 637px;
+  font-size: var(--font-size-99xl);
+  text-align: center;
+}
+.pneg-icon1,
+.rorelse-1-icon1 {
+  position: absolute;
+  left: 325px;
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+}
+.pneg-icon1 {
+  top: 406px;
+}
+.rorelse-1-icon1 {
+  bottom: -8px;
+}
+.ackord-2-03-icon1,
+.kombinationsposters-03-icon1 {
+  position: absolute;
+  left: 662px;
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+}
+.ackord-2-03-icon1 {
+  top: 406px;
+}
+.kombinationsposters-03-icon1 {
+  bottom: -8px;
+}
+.eld-01-icon1,
+.kombinationspostersss-icon1 {
+  position: absolute;
+  left: 999px;
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+}
+.eld-01-icon1 {
+  top: 406px;
+}
+.kombinationspostersss-icon1 {
+  bottom: -8px;
+}
+.orange-icon1,
+.resaearch-v2-icon1 {
+  position: absolute;
+  left: 1336px;
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+}
+.resaearch-v2-icon1 {
+  top: 406px;
+}
+.orange-icon1 {
+  bottom: -8px;
+}
+.b,
+.b1,
+.b2,
+.b3 {
+  position: absolute;
+  top: 676px;
+  left: 427px;
+  text-transform: uppercase;
+}
+.b1,
+.b2,
+.b3 {
+  left: 764px;
+}
+.b2,
+.b3 {
+  left: 1101px;
+}
+.b3 {
+  left: 1438px;
+}
+.exploring-music-through {
+  position: absolute;
+  top: 703px;
+  left: 325px;
+  display: inline-block;
+  width: 261px;
+}
+.exploring-music-through1,
+.exploring-music-through2,
+.exploring-music-through3 {
+  position: absolute;
+  top: 703px;
+  left: 662px;
+  display: inline-block;
+  width: 261px;
+}
+.exploring-music-through2,
+.exploring-music-through3 {
+  left: 999px;
+}
+.exploring-music-through3 {
+  left: 1336px;
+}
+.component-9-5-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-cornsilk);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.all3 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 102px;
+}
+.component-9-5 {
+  position: absolute;
+  top: 283px;
+  left: 435px;
+  width: 243px;
+  height: 58px;
+}
+.video {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 34.5px);
+  text-transform: uppercase;
+}
+.component-11-2 {
+  position: absolute;
+  top: 283px;
+  left: 973px;
+  width: 243px;
+  height: 58px;
+}
+.objects {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 48.5px);
+  text-transform: uppercase;
+}
+.component-12-2 {
+  position: absolute;
+  top: 283px;
+  left: 1242px;
+  width: 243px;
+  height: 58px;
+}
+.graphic-design {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 91.5px);
+  text-transform: uppercase;
+}
+.component-10-2 {
+  position: absolute;
+  top: 283px;
+  left: 703px;
+  width: 243px;
+  height: 58px;
+}
+.web-1920-7-child {
+  position: absolute;
+  top: 296px;
+  left: 1505px;
+  width: 45px;
+  height: 38px;
+}
+.component-1-4-child,
+.web-1920-7-item {
+  position: absolute;
+  top: 34.55px;
+  left: 37.18px;
+  width: 56.55px;
+  height: 55.54px;
+  cursor: pointer;
+}
+.component-1-4-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-cornsilk);
+  border: 2px solid var(--color-seagreen-100);
+  box-sizing: border-box;
+}
+.who-am-i9 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 60.5px);
+}
+.component-1-4 {
+  position: absolute;
+  top: 34.55px;
+  left: 434px;
+  width: 243px;
+  height: 58px;
+}
+.projects5 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 55.5px);
+  text-transform: uppercase;
+}
+.component-3-4 {
+  position: absolute;
+  top: 34.55px;
+  left: 973px;
+  width: 243px;
+  height: 58px;
+}
+.contact5 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 50.5px);
+  text-transform: uppercase;
+}
+.component-4-4 {
+  position: absolute;
+  top: 34.55px;
+  left: 1242px;
+  width: 243px;
+  height: 58px;
+  cursor: pointer;
+}
+.shop5 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 30.5px);
+  text-transform: uppercase;
+}
+.component-2-4 {
+  position: absolute;
+  top: 34.55px;
+  left: 703px;
+  width: 243px;
+  height: 58px;
+  cursor: pointer;
+}
+.component-15-4-child,
+.component-15-4-item {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  height: 29px;
+}
+.component-15-4-child {
+  top: 0;
+  border-radius: var(--br-5xs) var(--br-6xs) 0 0;
+  background-color: var(--color-dimgray);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.component-15-4-item {
+  bottom: 0;
+  border-radius: 0 0 var(--br-4xs) var(--br-4xs);
+  background-color: var(--color-seagreen-200);
+}
+.component-15-4 {
+  position: absolute;
+  top: 35px;
+  right: 38px;
+  width: 57px;
+  height: 58px;
+  cursor: pointer;
+}
+.web-1920-7 {
+  position: relative;
+  background-color: var(--color-cornsilk);
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-seagreen-200);
+  font-family: var(--font-montserrat);
+}
